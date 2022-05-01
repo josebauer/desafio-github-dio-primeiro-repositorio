@@ -1,0 +1,6 @@
+Link para download do Git: https://git-scm.com/downloads
+Git bash é um terminal extendido para otimizar o uso do Git.
+
+código para gerar chave SSH no Git Bash - "ssh-keygen -t ed25519 -C jose.h.bauer03@gmail.com"
+
+código para clonar repositório do GitHub: git clone (e link do repositório)
